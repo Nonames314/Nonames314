@@ -98,6 +98,3 @@ The project also involved feature engineering, model evaluation, and exploring d
   <img src="https://img.shields.io/badge/LinkedIn-007FFF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<br><br>
-
-<sub>Built with curiosity, data, and a tiny bit of pink. 🌸</sub>
